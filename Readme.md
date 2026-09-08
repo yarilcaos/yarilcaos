@@ -1,25 +1,33 @@
-Nombre + título
-Senior Software Engineer | Applied AI / AI Engineering
+# Cesar Velazquez
 
-2–3 líneas:
-I build practical AI systems with Python, LLM evals,
-tool calling, agents, and production-minded workflows.
+**Senior Software Engineer | Applied AI Engineer**
 
-Featured Projects
-[StudentInspector]
-Tool calling + evals + LLM judge
-100% base / 90% holdout
+I build practical AI systems with Python, LLM evaluations, tool calling, agent workflows, and production-focused engineering.
 
-[SupportInvestigator]
+**10+ years of experience building and shipping production software**, with a current focus on applied AI systems that are measurable, testable, and useful in real-world workflows.
+
+## Featured Projects
+
+### StudentInspector
+
+Tool calling + deterministic evaluations + LLM judge
+**100% base dataset accuracy | 90% holdout accuracy**
+
+### SupportInvestigator
+
 Multi-step support agent
-LangGraph + failure handling + evaluation
+LangGraph + tool orchestration + failure handling + evaluation
 
-[TicketExtractor]
-Structured extraction
-Prompt A/B experiments + latency/token tracking
+### TicketExtractor
 
-Current focus
-- LLM evaluation
-- Agent orchestration
-- Human-in-the-loop
-- Applied AI for real business workflows
+Structured LLM extraction
+Prompt A/B testing + latency, token usage, and field-level accuracy tracking
+
+## Current Focus
+
+* LLM evaluation
+* Agent orchestration
+* Human-in-the-loop systems
+* Structured outputs
+* Tool calling
+* Applied AI for real business workflows
