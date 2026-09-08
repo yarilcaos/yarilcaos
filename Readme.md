@@ -2,6 +2,8 @@
 
 **Senior Software Engineer | Applied AI Engineer**
 
+**Python · OpenAI · LangGraph · Pydantic · C# · .NET · TypeScript · AWS**
+
 I build practical AI systems with Python, LLM evaluations, tool calling, agent workflows, and production-focused engineering.
 
 **10+ years of experience building and shipping production software**, with a current focus on applied AI systems that are measurable, testable, and useful in real-world workflows.
